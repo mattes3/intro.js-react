@@ -1,7 +1,7 @@
 {
-  "name": "intro.js-react",
+  "name": "intro-js-react",
   "version": "0.1.5",
-  "description": "Intro.js React Wrapper",
+  "description": "Intro.js React Wrapper (renamed)",
   "main": "lib/index.js",
   "scripts": {
     "prebuild": "rimraf lib/*",
